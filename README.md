@@ -402,7 +402,7 @@ Check the official certification page for current scheduling, exam delivery, pri
 
 Candidates can use the website alongside official documentation, structured study plans, practical exercises, and their own revision notes.
 
-Explore: [https://certsgate.com/](https://certsgate.com/)**
+Explore: [https://certsgate.com/](https://certsgate.com/)
 
 
 
